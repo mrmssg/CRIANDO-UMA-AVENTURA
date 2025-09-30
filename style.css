@@ -14,7 +14,16 @@ button {
     background-color: #64A712;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
+    font-size: 1.5rem;
 }
+
+button:hover{
+    background-color: #edf37d;
+    color: black;
+    border: solid 4px #64A712;
+    border-radius: 15px;
+}
+
 .passo{
     display: none;
 }
@@ -29,4 +38,13 @@ main{
 img{
     max-width: 90%;
 
+}
+
+.legenda{
+    text-align: center;
+    font-size: xx-small;
+}
+
+p{
+    font-size: 1.5rem;
 }

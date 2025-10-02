@@ -36,9 +36,8 @@ main{
 }
 
 img{
-    max-width: 90%;
-
-}
+    max-width: 80%;
+    }
 
 .legenda{
     text-align: center;
@@ -51,4 +50,8 @@ p{
 
 .abertura{
     width: 60%;
+}
+
+.chat__gpt{
+    max-width: 50%;
 }
